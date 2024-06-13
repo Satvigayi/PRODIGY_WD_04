@@ -36,7 +36,4 @@ Hello! My name is Satvika Gummadidala. I am deeply passionate about technology a
 - Python
 - MERN stack (MongoDB, Express.js, React, Node.js)
 
-## How to View
-To view the portfolio, simply open the `index.html` file in your web browser.
-
 &copy; 2024 Satvika Gummadidala
